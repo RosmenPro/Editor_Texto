@@ -28,7 +28,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
 ## Uso
 1. Ejecuta el script:
    python3 editor_texto.py
-2.Aparecerá una ventana con las siguientes opciones:
+2. Aparecerá una ventana con las siguientes opciones:
   . Abrir: Permite abrir un archivo de texto existente. El contenido del archivo se cargará en el área de texto.
   . Guardar: Guarda el contenido actual del área de texto en un nuevo archivo de texto o sobrescribe un archivo existente.
 
