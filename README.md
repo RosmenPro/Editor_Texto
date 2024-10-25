@@ -29,13 +29,13 @@ Para ejecutar este proyecto, necesitas tener instalado:
 1. Ejecuta el script:
    python3 editor_texto.py
 2. Aparecerá una ventana con las siguientes opciones:
-  . Abrir: Permite abrir un archivo de texto existente. El contenido del archivo se cargará en el área de texto.
-  . Guardar: Guarda el contenido actual del área de texto en un nuevo archivo de texto o sobrescribe un archivo existente.
+   * Abrir: Permite abrir un archivo de texto existente. El contenido del archivo se cargará en el área de texto.
+   * Guardar: Guarda el contenido actual del área de texto en un nuevo archivo de texto o sobrescribe un archivo existente.
 
 ## Estructura del código
-. EditorDeTexto: Clase principal que maneja la lógica del editor de texto.
-  . abrir_archivo: Método que permite al usuario abrir un archivo de texto y cargar su contenido en el área de texto.
-  . guardar_archivo: Método que permite al usuario guardar el contenido del área de texto en un archivo de texto.
+* EditorDeTexto: Clase principal que maneja la lógica del editor de texto.
+  * abrir_archivo: Método que permite al usuario abrir un archivo de texto y cargar su contenido en el área de texto.
+  * guardar_archivo: Método que permite al usuario guardar el contenido del área de texto en un archivo de texto.
 
 ## Contribuir
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, siéntete libre de crear un pull request.
