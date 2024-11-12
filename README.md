@@ -47,7 +47,15 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, siéntete libre de crear un pull request.
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
 ---
+
 
 # Text Editor
 
@@ -96,3 +104,12 @@ To run this project, you need to have installed:
 ## Contributing
 
 Contributions are welcome. If you have any suggestions or improvements, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
